@@ -1,15 +1,15 @@
 {
     "name": "Balancer",
-    "timestamp": "2022-05-13T00:00:00.000Z",
-    "logoURI": "https://raw.githubusercontent.com/balancer-labs/pebbles/master/images/pebbles-pad.256w.png",
+    "timestamp": "2022-06-01T00:00:00.000Z",
+    "logoURI": "https://raw.githubusercontent.com/disscorp/pools-sdk/refactor-for-multichain/images/pebbles-pad.256w.png",
     "keywords": [
         "balancer",
         "listed"
     ],
     "version": {
         "major": 1,
-        "minor": 0,
-        "patch": 2
+        "minor": 1,
+        "patch": 0
     },
     "tokens": [
         {
@@ -19,6 +19,14 @@
             "symbol": "BAL",
             "decimals": 18,
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
+        },
+        {
+            "address": "0xd6edA14a296721Dc16a18F0E1d1dE7217077Fd5B",
+            "chainId": 42,
+            "name": "Bart",
+            "symbol": "BART",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/disscorp/pools-assets/refactor-for-multichain/assets/0xd6eda14a296721dc16a18f0e1d1de7217077fd5b.png"
         },
         {
             "address": "0x04DF6e4121c27713ED22341E7c7Df330F56f289B",

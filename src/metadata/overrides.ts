@@ -31,7 +31,7 @@ export async function getExistingMetadata(
     const address = assetFile.split(".png")[0];
     return {
       address: address,
-      logoURI: `https://raw.githubusercontent.com/balancer-labs/assets/master/assets/${address.toLowerCase()}.png`,
+      logoURI: `https://raw.githubusercontent.com/disscorp/pools-assets/refactor-for-multichain/assets/${address.toLowerCase()}.png`,
     };
   });
 
