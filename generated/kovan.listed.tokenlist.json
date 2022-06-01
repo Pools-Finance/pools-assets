@@ -1,7 +1,7 @@
 {
     "name": "Balancer",
     "timestamp": "2022-06-01T00:00:00.000Z",
-    "logoURI": "https://raw.githubusercontent.com/disscorp/pools-sdk/refactor-for-multichain/images/pebbles-pad.256w.png",
+    "logoURI": "https://raw.githubusercontent.com/balancer-labs/pebbles/master/images/pebbles-pad.256w.png",
     "keywords": [
         "balancer",
         "listed"
