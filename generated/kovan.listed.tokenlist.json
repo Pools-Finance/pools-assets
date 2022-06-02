@@ -1,6 +1,6 @@
 {
     "name": "Balancer",
-    "timestamp": "2022-06-01T00:00:00.000Z",
+    "timestamp": "2022-06-02T00:00:00.000Z",
     "logoURI": "https://raw.githubusercontent.com/balancer-labs/pebbles/master/images/pebbles-pad.256w.png",
     "keywords": [
         "balancer",
@@ -8,7 +8,7 @@
     ],
     "version": {
         "major": 1,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
     "tokens": [
@@ -35,6 +35,14 @@
             "symbol": "DAI",
             "decimals": 18,
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+        },
+        {
+            "address": "0x5f1d056D8d4912414dF3E0005BBa91C346692177",
+            "chainId": 42,
+            "name": "Lisa",
+            "symbol": "LISA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/disscorp/pools-assets/refactor-for-multichain/assets/0x5f1d056d8d4912414df3e0005bba91c346692177.png"
         },
         {
             "address": "0xAf9ac3235be96eD496db7969f60D354fe5e426B0",
