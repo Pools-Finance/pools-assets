@@ -50,7 +50,7 @@ export async function getExistingMetadata(
 
 export function getMainnetAddress(address: string): string {
   const map: Record<string, string> = {
-    "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1":
+    "0x88daBb4E1eB9999d05e04bcd704C17442FA88D72":
       "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "0x41286Bb1D3E870f3F750eB7E1C25d7E48c8A1Ac7":
       "0xba100000625a3754423978a60c9317c58a424e3D",
@@ -62,7 +62,7 @@ export function getMainnetAddress(address: string): string {
       "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "0x8F4beBF498cc624a0797Fe64114A6Ff169EEe078":
       "0xbC396689893D065F41bc2C6EcbeE5e0085233447",
-    "0x1C8E3Bcb3378a443CC591f154c5CE0EBb4dA9648":
+    "0x3afB291BdEBF937067D928383c92225b5C8aBF4a":
       "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
   };
   return map[address] || address;
