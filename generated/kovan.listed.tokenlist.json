@@ -1,15 +1,15 @@
 {
     "name": "Balancer",
-    "timestamp": "2022-06-02T00:00:00.000Z",
+    "timestamp": "2022-06-10T00:00:00.000Z",
     "logoURI": "https://raw.githubusercontent.com/balancer-labs/pebbles/master/images/pebbles-pad.256w.png",
     "keywords": [
         "balancer",
         "listed"
     ],
     "version": {
-        "major": 1,
-        "minor": 2,
-        "patch": 0
+        "major": 2,
+        "minor": 0,
+        "patch": 2
     },
     "tokens": [
         {
@@ -69,7 +69,7 @@
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
         },
         {
-            "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
+            "address": "0x88daBb4E1eB9999d05e04bcd704C17442FA88D72",
             "chainId": 42,
             "name": "WETH",
             "symbol": "WETH",
@@ -77,7 +77,7 @@
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
         },
         {
-            "address": "0x1C8E3Bcb3378a443CC591f154c5CE0EBb4dA9648",
+            "address": "0x3afB291BdEBF937067D928383c92225b5C8aBF4a",
             "chainId": 42,
             "name": "Wrapped Bitcoin",
             "symbol": "WBTC",
