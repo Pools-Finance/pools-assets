@@ -7,19 +7,11 @@
         "vetted"
     ],
     "version": {
-        "major": 2,
-        "minor": 0,
+        "major": 0,
+        "minor": 1,
         "patch": 0
     },
     "tokens": [
-        {
-            "address": "0x41286Bb1D3E870f3F750eB7E1C25d7E48c8A1Ac7",
-            "chainId": 42,
-            "name": "Balancer",
-            "symbol": "BAL",
-            "decimals": 18,
-            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
-        },
         {
             "address": "0x04DF6e4121c27713ED22341E7c7Df330F56f289B",
             "chainId": 42,
@@ -45,7 +37,7 @@
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xbC396689893D065F41bc2C6EcbeE5e0085233447/logo.png"
         },
         {
-            "address": "0xc2569dd7d0fd715B054fBf16E75B001E5c0C1115",
+            "address": "0xf40AEC79127CFB9fb77c9FA8d2DBC66bb01c08F5",
             "chainId": 42,
             "name": "USD Coin",
             "symbol": "USDC",

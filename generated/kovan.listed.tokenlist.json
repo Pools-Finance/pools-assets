@@ -7,19 +7,11 @@
         "listed"
     ],
     "version": {
-        "major": 2,
-        "minor": 0,
-        "patch": 2
+        "major": 0,
+        "minor": 1,
+        "patch": 1
     },
     "tokens": [
-        {
-            "address": "0x41286Bb1D3E870f3F750eB7E1C25d7E48c8A1Ac7",
-            "chainId": 42,
-            "name": "Balancer",
-            "symbol": "BAL",
-            "decimals": 18,
-            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
-        },
         {
             "address": "0xd6edA14a296721Dc16a18F0E1d1dE7217077Fd5B",
             "chainId": 42,
@@ -45,23 +37,31 @@
             "logoURI": "https://raw.githubusercontent.com/disscorp/pools-assets/refactor-for-multichain/assets/0x5f1d056d8d4912414df3e0005bba91c346692177.png"
         },
         {
-            "address": "0xAf9ac3235be96eD496db7969f60D354fe5e426B0",
+            "address": "0x23C9d7fE3B28a38A9A2aCaEEA027e8A703B2caB9",
             "chainId": 42,
-            "name": "Maker",
-            "symbol": "MKR",
+            "name": "Miota",
+            "symbol": "MIOTA",
             "decimals": 18,
-            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/disscorp/pools-assets/refactor-for-multichain/assets/0x23c9d7fe3b28a38a9a2acaeea027e8a703b2cab9.png"
         },
         {
-            "address": "0x8F4beBF498cc624a0797Fe64114A6Ff169EEe078",
+            "address": "0x096f5C9433F84Df8FF33A02bA947eB609db53262",
             "chainId": 42,
-            "name": "Perpetual",
-            "symbol": "PERP",
+            "name": "Pools",
+            "symbol": "POOLS",
             "decimals": 18,
-            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xbC396689893D065F41bc2C6EcbeE5e0085233447/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/disscorp/pools-assets/refactor-for-multichain/assets/0x096f5c9433f84df8ff33a02ba947eb609db53262.png"
         },
         {
-            "address": "0xc2569dd7d0fd715B054fBf16E75B001E5c0C1115",
+            "address": "0x3424bF7792381DC7A51775d72EE4fBA0F30263D5",
+            "chainId": 42,
+            "name": "Shimmer",
+            "symbol": "SMR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/disscorp/pools-assets/refactor-for-multichain/assets/0x3424bf7792381dc7a51775d72ee4fba0f30263d5.png"
+        },
+        {
+            "address": "0xf40AEC79127CFB9fb77c9FA8d2DBC66bb01c08F5",
             "chainId": 42,
             "name": "USD Coin",
             "symbol": "USDC",
