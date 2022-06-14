@@ -61,7 +61,7 @@
             "logoURI": "https://raw.githubusercontent.com/disscorp/pools-assets/refactor-for-multichain/assets/0x3424bf7792381dc7a51775d72ee4fba0f30263d5.png"
         },
         {
-            "address": "0xf40AEC79127CFB9fb77c9FA8d2DBC66bb01c08F5",
+            "address": "0xeae10C8919A6C43B154c9966d1e03dc482183858",
             "chainId": 42,
             "name": "USD Coin",
             "symbol": "USDC",
@@ -77,7 +77,7 @@
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
         },
         {
-            "address": "0x3afB291BdEBF937067D928383c92225b5C8aBF4a",
+            "address": "0x543aB9A79212F88123bEd094dd8778898e64A731",
             "chainId": 42,
             "name": "Wrapped Bitcoin",
             "symbol": "WBTC",
