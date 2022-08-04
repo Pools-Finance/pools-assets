@@ -1,15 +1,15 @@
 {
     "name": "Balancer",
-    "timestamp": "2022-06-10T00:00:00.000Z",
+    "timestamp": "2022-08-04T00:00:00.000Z",
     "logoURI": "https://raw.githubusercontent.com/balancer-labs/pebbles/master/images/pebbles-pad.256w.png",
     "keywords": [
         "balancer",
         "listed"
     ],
     "version": {
-        "major": 0,
-        "minor": 1,
-        "patch": 1
+        "major": 1,
+        "minor": 0,
+        "patch": 0
     },
     "tokens": [
         {
@@ -45,12 +45,12 @@
             "logoURI": "https://raw.githubusercontent.com/disscorp/pools-assets/refactor-for-multichain/assets/0x23c9d7fe3b28a38a9a2acaeea027e8a703b2cab9.png"
         },
         {
-            "address": "0x096f5C9433F84Df8FF33A02bA947eB609db53262",
+            "address": "0x42B5BC379b2b53a5400B6650F93D1CFfE1798371",
             "chainId": 42,
-            "name": "Pools",
+            "name": "PoolsToken",
             "symbol": "POOLS",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/disscorp/pools-assets/refactor-for-multichain/assets/0x096f5c9433f84df8ff33a02ba947eb609db53262.png"
+            "logoURI": "https://raw.githubusercontent.com/disscorp/pools-assets/refactor-for-multichain/assets/0x42b5bc379b2b53a5400b6650f93d1cffe1798371.png"
         },
         {
             "address": "0x3424bF7792381DC7A51775d72EE4fBA0F30263D5",
